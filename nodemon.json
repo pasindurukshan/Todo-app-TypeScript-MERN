@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "twg",
+        "MONGO_PASSWORD": "twg123",
+        "MONGO_DB": "TodoApp"
+    }
+}
